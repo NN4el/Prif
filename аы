@@ -1,0 +1,2 @@
+gun=require(game:GetService("Players").fl0werzy.Backpack["AKM"]["ACS_Modulo"].Variaveis.Settings)
+gun.Bullets = 200
